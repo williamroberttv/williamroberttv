@@ -3,7 +3,6 @@
 <h3> 🦸‍♂️ &nbsp;About me </h3>
 
 <p>Hello :wave:, my name is William, I'm a Javascript/Typescript Developer and this is my Github :rocket:</p>
-<img align="right" width="300" src="https://i.giphy.com/media/zOvBKUUEERdNm/giphy.webp" />
 
 - ⏳ &nbsp; 25 years old.
 - 💻 &nbsp; Javascript/Typescript Developer.
