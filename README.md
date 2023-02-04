@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamroberttv&label=Profile%20views&color=0e75b6&style=flat" alt="williamroberttv" /> </p>
 
-- 🔭 I’m currently working on [SenaiPlay](play.senai.br)
+- 🔭 I’m currently working on [SenaiPlay]
 
 - 👨‍💻 All of my projects are available at [https://github.com/williamroberttv?tab=repositories](https://github.com/williamroberttv?tab=repositories)
 
