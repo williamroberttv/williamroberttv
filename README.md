@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Tavares</h1>
-<h3 align="center">Fullstack Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamroberttv&label=Profile%20views&color=0e75b6&style=flat" alt="williamroberttv" /> </p>
-
-- 🔭 I’m currently working on [SenaiPlay]
 
 - 👨‍💻 All of my projects are available at [https://github.com/williamroberttv?tab=repositories](https://github.com/williamroberttv?tab=repositories)
 
