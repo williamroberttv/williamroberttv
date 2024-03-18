@@ -15,6 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display:flex; flex-wrap:wrap">
+  <p>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     width="40"
@@ -120,9 +121,6 @@
     width="40"
     height="40"
   />
-</div>
-
-<div>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg"
     width="40"
@@ -230,5 +228,6 @@
     width="40"
     height="40"
   />
+  </p>
 </div>
 
