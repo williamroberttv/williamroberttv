@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div>
+<div style="display:flex; flex-wrap:wrap">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     width="40"
