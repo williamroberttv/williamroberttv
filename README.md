@@ -41,22 +41,12 @@
       height="40"
     />
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      width="40"
-      height="40"
-    />
-    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
       width="40"
       height="40"
     />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg"
       width="40"
       height="40"
     />
@@ -70,10 +60,6 @@
       width="40"
       height="40"
     />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-     width="40"
-      height="40"
-   />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
       width="40"
@@ -100,16 +86,6 @@
       height="40"
     />
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-      width="40"
-      height="40"
-    />
-    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
       width="40"
       height="40"
@@ -121,11 +97,6 @@
     />
       <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
       width="40"
       height="40"
     />
